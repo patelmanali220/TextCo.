@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextCo./static/css/main.f84df8a9.css",
+    "main.js": "/TextCo./static/js/main.ceb89fa2.js",
+    "static/js/453.ed3810f9.chunk.js": "/TextCo./static/js/453.ed3810f9.chunk.js",
+    "index.html": "/TextCo./index.html",
+    "main.f84df8a9.css.map": "/TextCo./static/css/main.f84df8a9.css.map",
+    "main.ceb89fa2.js.map": "/TextCo./static/js/main.ceb89fa2.js.map",
+    "453.ed3810f9.chunk.js.map": "/TextCo./static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f84df8a9.css",
+    "static/js/main.ceb89fa2.js"
+  ]
+}
